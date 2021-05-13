@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+    vertical-align: inherit;
+}
+    .rama {
+        display: -webkit-flex;
+    }
+    img{
+        
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+    .foto{
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .borde {
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        line-height: 0.8cm;
+        font-size: 15px;
+        background-color: #172479;
+        width: 370px;
+        height: 1200px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .borde__uno{
+        color: white;
+        text-align: start;
+        margin-left: 20px;
+        line-height: 1cm;
+    }
+    .borde__dos{
+        color: forestgreen;
+        line-height: 2cm;
+        font-weight: 700;
+        text-align: start;
+        margin-left: 20px;
+    }
+    .borde__tres{
+        text-align: start;
+        color: white;
+        margin-left: 20px;
+        line-height: 1.5cm;
+    }
+    /* otra caja */
+    .info{
+        font-family: serif;
+        width: 500px;
+        line-height: 1.1cm;
+        margin-left: 20px;
+        margin-top: 100px;
+    }
+    .info__h1{
+        color: #172479;
+        font-size: 55px;
+        width: 500px;    
+        line-height: 1.5cm;  
+    }
+    .info__h2{
+        color: #112E4E;
+        font-weight: 800;
+        font-size: 20px;
+    }
+    .cambio{
+        color: brown;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .kuro{
+        color: black;
+        font-size: 20px;
+        font-weight: px;
+    }
+    p{
+        color: grey;
+        font-size: 15px;
+    }
